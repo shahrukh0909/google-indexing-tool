@@ -2,7 +2,7 @@
 
 A single Node.js script that asks Google to crawl every page in your sitemap, or just the pages you name, through Google's Indexing API. No subscription, no credits, no third-party service holding your keys.
 
-I wrote it for my own site. The first run submitted 45 pages; Google accepted all 45 within about a minute. The full write-up, with screenshots of the setup, is here: [How I got every page of a new site crawled by Google in an hour, with a free tool](https://www.shahrukhmajeed.com/blog/free-google-indexing-tool).
+I wrote it for my own site. The first run submitted 45 pages; Google accepted all 45 within about a minute. The full write-up with the setup steps is here: [Free Google indexing tool: how I got every page of a new site crawled in an hour](https://www.shahrukhmajeed.com/blog/free-google-indexing-tool). There is also [a version on LinkedIn](https://www.linkedin.com/pulse/free-google-indexing-tool-how-i-got-every-page-new-site-shahrukh-m--jdxof) if you prefer to comment there.
 
 ## What it is, and what it is not
 
